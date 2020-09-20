@@ -1,0 +1,9 @@
+<h1 align="center">Natural Language Processing is a Universal Data Format</h1>
+
+_Written September 20th, 2020._
+
+---
+
+I was thinking today about different ways that an AI might store information. Specifically a format that allows for something that the AI can translate the world around it into that other plugins within the AI's mind could process. But something they would know what needed to be processed and such without information overload or insane amounts of training and so on. I suddenly realized that that was basically what natural language is. A data format. It's a compressed stream of data that relies on known information to store and transmit more information. Even inside the brain, this concept is used to a degree.
+
+When writing my own AI, I think a very limited version of natural language should be present in it's brain. Something that would be heavily scaled down and very logical and ordered. Similar to commands like I was thinking before. It just makes sense. Plus, it would give a better inttuition about what's going on inside the AI's mind while it's obsering the world around it.
